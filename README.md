@@ -4,7 +4,7 @@ Having a corn dog emergency? Run this application.
 
 ## Screenshots
 
-![CORNDOG.EXE](assets/corndog.jpg)
+![CORNDOG.EXE](assets/corndogexe.png)
 
 ## Installation
 
@@ -30,8 +30,9 @@ This application is considered feature-complete and stable. No features are curr
 
 ## Authors
 
-[@telephonesis](https://bsky.app/profile/telephonesis.bsky.social) 
-[@natealism](https://bsky.app/profile/natealism.bsky.social)
+[@telephonesis](https://bsky.app/profile/telephonesis.bsky.social) - Director, Creator, Marketing and Promotion
+
+[@natealism](https://bsky.app/profile/natealism.bsky.social) - Lead Software Engineer, Project Manager
 
 ## Acknowledgements
 
