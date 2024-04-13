@@ -30,12 +30,12 @@ This application is considered feature-complete and stable. No features are curr
 
 ## Authors
 
-[@telephonesis](https://bsky.app/profile/telephonesis.bsky.social) - Director, Creator, Marketing and Promotion
+[@tinymisspoopie](https://bsky.app/profile/tinymisspoopie.bsky.social) - Director, Creator, Marketing and Promotion
 
 [@natealism](https://bsky.app/profile/natealism.bsky.social) - Lead Software Engineer, Project Manager
 
 ## Acknowledgements
 
-* Special thanks to @telephonesis for [inspiration](https://bsky.app/profile/telephonesis.bsky.social/post/3ka5ol2yb7b2q) and [creative direction](https://bsky.app/profile/telephonesis.bsky.social/post/3ka5oqsqgk72l).
+* Special thanks to @tinymisspoopie for [inspiration](https://bsky.app/profile/tinymisspoopie.bsky.social/post/3ka5ol2yb7b2q) and [creative direction](https://bsky.app/profile/tinymisspoopie.bsky.social/post/3ka5oqsqgk72l).
 * Thank you to my spirit team for guidance on my corn dog journey.
 
